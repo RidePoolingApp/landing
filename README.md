@@ -4,7 +4,7 @@
 
 WayLink is a modern, high-performance landing page for a next-generation driver-centric platform designed for intercity rides, rentals, and carpooling. Unlike traditional ride-hailing apps, WayLink is engineered to work seamlessly with **Zero GPS Dependency** using zone-based algorithms.
 
-![WayLink Preview]((https://1d6kykqofq.ufs.sh/f/fVvo0hHNtQOLedcbDqVT2CGaRXqOYupZb9kMvfBtSmdIJzyW))
+![WayLink Preview]([https://1d6kykqofq.ufs.sh/f/fVvo0hHNtQOLedcbDqVT2CGaRXqOYupZb9kMvfBtSmdIJzyW])
 
 ## 🚀 Features
 
