@@ -1,4 +1,5 @@
 {
-  "name": "WayLink Landing Page",
-  "description": "A modern, minimalistic landing page for the WayLink driver-centric ride platform."
+  "name": "WayLink - Intercity Ride Platform",
+  "description": "A premium, driver-centric intercity travel platform featuring a dark glassmorphism UI, zero-GPS dependency zones, and seamless bento-grid aesthetics.",
+  "requestFramePermissions": []
 }
